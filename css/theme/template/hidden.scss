@@ -1,0 +1,29 @@
+// Supplementary functionality for reveal.js
+
+/*********************************************
+ * ADDITIONAL STYLES and classes
+ *********************************************/
+
+.reveal .camo {
+    visibility:  hidden;
+}
+
+
+.reveal section.upperh {
+    margin: $headingMargin;
+    top: 0px!important;
+}
+
+
+.reveal section.upperlefth {
+    margin: $headingMargin;
+    top: 0px!important;
+}
+
+.reveal section.upperlefth h2,
+.reveal section.upperlefth h3,
+.reveal section.upperlefth h4,
+.reveal section.upperlefth h5,
+.reveal section.upperlefth h6 {
+    text-align: left;
+}
